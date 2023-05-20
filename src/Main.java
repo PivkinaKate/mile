@@ -4,8 +4,10 @@ public class Main {
 
         int ticket = 25485;
         int bonus = 20;
+        int result = ticket / bonus;
 
-        System.out.println(ticket / bonus);
+        System.out.println(result);
+
 
 
     }
